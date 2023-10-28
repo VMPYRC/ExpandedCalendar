@@ -15,7 +15,7 @@
 | Season | Additions                                                                                                                     | Image                        |
 | :----: | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 |  ALL   | + Closed Days for: Marnie's Ranch, Robin / Carpenter's Shop, Pierre's General Store, Ice Cream Stand<br>+ Traveling Cart Days | NONE                         |
-| Spring | Salmonberry                                                                                                                   | ![Spring](Images/Spring.png) |
-| Summer | Beach Forageables                                                                                                             | ![Summer](Images/Summer.png) |
-|  Fall  | Blackberry                                                                                                                    | ![Fall](Images/Fall.png)     |
-| Winter | Traveling Cart on Night Market Days                                                                                           | ![Winter](Images/Winter.png) |
+| Spring | Salmonberry                                                                                                                   | ![Spring](images/Spring.png) |
+| Summer | Beach Forageables                                                                                                             | ![Summer](images/Summer.png) |
+|  Fall  | Blackberry                                                                                                                    | ![Fall](images/Fall.png)     |
+| Winter | Traveling Cart on Night Market Days                                                                                           | ![Winter](images/Winter.png) |
