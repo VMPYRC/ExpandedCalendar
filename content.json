@@ -1,0 +1,14 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Billboard",
+            "FromFile": "assets/expanded_overlay_{{Season}}.png",
+            "PatchMode": "Overlay",
+            "When": {
+                "season": "spring, summer, fall, winter"
+            }
+        },
+    ]
+}

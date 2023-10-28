@@ -1,0 +1,13 @@
+{
+  "Name": "Expanded Calendar",
+  "Author": "VMPYRC",
+  "Version": "1.0.0",
+  "Description": "Adds various stuff to the calendar",
+  "UniqueID": "VMPYRC.ExpandedCalendar",
+  "UpdateKeys": [
+    "Nexus:???"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
